@@ -12,7 +12,8 @@
         "target_path": "hardware/samsung_slsi-cm/exynos5"
     },
     {
-        "repository": "android_hardware_samsung_slsi-cm_exynos7580",
+	"remote": "github",
+        "repository": "Exynos7580/android_hardware_samsung_slsi-cm_exynos7580",
         "target_path": "hardware/samsung_slsi-cm/exynos7580"
     },
     {
